@@ -30,7 +30,6 @@ cube: {
   slideShadows: true,
   shadow: true,
   shadowOffset: 100,
-  shadowScale: 0.6
 }
 })
 </script>
