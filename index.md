@@ -3,6 +3,7 @@
 <script src="https://file.oss1.365sn.cn/public/js/swiper.min.js"></script>
 <style>
     h1{display:none;}
+    .page-header,.site-footer{display:none !important;}
     .container-lg{padding:0 !important;margin: 0px !important;}
     body,html{width:100%;height:100%;margin:0;padding:0;background: url(https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3367609168,3168769865&fm=26&gp=0.jpg) no-repeat center;background-size: cover;}
     .swiper-container,.swiper-wrapper,.swiper-slide{height:100%;}
